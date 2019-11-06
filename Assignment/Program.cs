@@ -367,12 +367,12 @@ namespace Assignment
         static void Main(string[] args)
         {
             int choice;
-            String inputChoice;
-            Console.WriteLine("-------------part-1 of assignment containing 18 Questions---------------- \n");
-            Console.Write("enter the serial number of question you want (0 to exit): ");
-            inputChoice= Console.ReadLine();
+            String Choice1;
+            
+            Console.Write("Enter the number of question you want to execute (press 0 to exit): ");
+            Choice1= Console.ReadLine();
             Console.WriteLine();
-            choice = Convert.ToInt32(inputChoice);
+            choice = Convert.ToInt32(Choice1);
             while (choice != 0)
             {
                 switch (choice)
@@ -437,10 +437,10 @@ namespace Assignment
                         Console.WriteLine("Invalid choice");
                         break;
                 }
-                Console.Write("\n\nenter the serial number of question you want (0 to exit): ");
-                inputChoice = Console.ReadLine();
+                Console.Write("\n\nEnter the number of question you want to execute (press 0 to exit): ");
+                Choice1 = Console.ReadLine();
                 Console.WriteLine();
-                choice = Convert.ToInt32(inputChoice);
+                choice = Convert.ToInt32(Choice1);
             }       
         }
     }
