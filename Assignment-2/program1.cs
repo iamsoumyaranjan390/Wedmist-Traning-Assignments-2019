@@ -500,7 +500,10 @@ namespace Assignment
             }
 
             Console.WriteLine("Before Sorting :");
-            Display(arr);
+             for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write("{0}  ", arr[i]);
+            }
 
             int temp, smallest;
             for (int i = 0; i < arr.Length - 1; i++)
@@ -540,7 +543,10 @@ namespace Assignment
             }
 
             Console.WriteLine("Before Sorting :");
-            Display(arr);
+             for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write("{0}  ",arr[i]);
+            }
 
 
             for (int j = 0; j <= arr.Length - 2; j++)
