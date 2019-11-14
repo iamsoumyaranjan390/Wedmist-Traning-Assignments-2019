@@ -1,0 +1,11 @@
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\bin\Debug\netcoreapp2.1\Part3_Assignment.deps.json
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\bin\Debug\netcoreapp2.1\Part3_Assignment.runtimeconfig.json
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\bin\Debug\netcoreapp2.1\Part3_Assignment.runtimeconfig.dev.json
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\bin\Debug\netcoreapp2.1\Part3_Assignment.dll
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\bin\Debug\netcoreapp2.1\Part3_Assignment.pdb
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\obj\Debug\netcoreapp2.1\Part3_Assignment.csprojAssemblyReference.cache
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\obj\Debug\netcoreapp2.1\Part3_Assignment.csproj.CoreCompileInputs.cache
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\obj\Debug\netcoreapp2.1\Part3_Assignment.AssemblyInfoInputs.cache
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\obj\Debug\netcoreapp2.1\Part3_Assignment.AssemblyInfo.cs
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\obj\Debug\netcoreapp2.1\Part3_Assignment.dll
+F:\wedmist assignments\12-10-19 2nd Assignment 3rd part\Part3_Assignment\Part3_Assignment\obj\Debug\netcoreapp2.1\Part3_Assignment.pdb
